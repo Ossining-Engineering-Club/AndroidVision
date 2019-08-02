@@ -1,0 +1,2 @@
+include ':app', ':gmock', ':ntcore'
+include ':openCVLibrary343'
